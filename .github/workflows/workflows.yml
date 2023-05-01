@@ -21,6 +21,5 @@ jobs:
     - name: execute py script
       run:
         python python_names_storage.py
-    - uses: stefanzweifel/git-auto-commit-action@v4
 
     
